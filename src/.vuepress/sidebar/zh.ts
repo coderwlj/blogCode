@@ -59,7 +59,7 @@ export const zhSidebar = sidebar({
       text: '不止编码',
       prefix: 'mind/',
       collapsible: true,
-      children: [],
+      children: ['book01', 'book02'],
     },
   ],
 });
