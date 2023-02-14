@@ -10,15 +10,11 @@ export const zhNavbar = navbar([
     prefix: '/read/',
     children: [
       {
-        text: '文学哲思',
-        link: 'literature/',
-      },
-      {
-        text: '技术书籍',
+        text: '编码相关',
         link: 'tech/',
       },
       {
-        text: '其他',
+        text: '不止编码',
         link: 'mind/',
       },
     ],

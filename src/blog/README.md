@@ -11,7 +11,7 @@ heroImage: /R-C.gif
 heroImageDark: /darkImage.gif
 heroFullScreen: true
 # 背景图片
-bgImage: /bg.png
+# bgImage: /bg.png
 # 显示在文章列表
 article: false
 # 项目展示

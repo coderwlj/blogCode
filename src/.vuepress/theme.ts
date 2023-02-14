@@ -21,7 +21,7 @@ export default hopeTheme({
   repoLabel: 'GitHub',
 
   docsDir: 'src',
-  docsRepo: 'https://github.com/coderwlj/notes.git',
+  docsRepo: 'https://github.com/coderwlj/blogCode.git',
 
   navbarLayout: {
     left: ['Brand'],

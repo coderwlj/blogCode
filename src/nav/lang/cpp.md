@@ -1,7 +1,9 @@
 ---
+title: cpp相关技术
+author: coderwlj
 article: false
 editLink: false
 comment: false
 ---
 
-# 被拒绝的勇气
+<!-- more -->

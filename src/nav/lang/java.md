@@ -21,3 +21,8 @@ comment: false
 - [okhttp3](https://square.github.io/okhttp/4.x/okhttp/okhttp3/)
 - [gson](https://github.com/google/gson)
 - [jackson](https://github.com/FasterXML/jackson)
+
+## 项目/资源
+
+- [Awesome Java](https://java.libhunt.com/)
+- [todoMVC](https://todomvc.com/)

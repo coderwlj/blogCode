@@ -1,5 +1,5 @@
 ---
-title: learn
+title: Rust
 author: coderwlj
 article: false
 editLink: false
@@ -7,5 +7,3 @@ comment: false
 ---
 
 <!-- more -->
-
-how to learn english

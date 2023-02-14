@@ -7,6 +7,8 @@ editLink: false
 comment: false
 ---
 
+## 工具
+
 - [胖虎的工具箱](https://www.955code.com/)
 - [油条工具箱](https://utils.fun/)
 - [tinywow](https://tinywow.com/)
@@ -26,3 +28,35 @@ comment: false
 - [sms-activate 短信](https://sms-activate.org/cn)
 - [ip-lookup](https://www.ipaddress.com/ip-lookup)
 - [codepen](https://codepen.io/)
+- [图壳](https://imgkr.com/pricing/)
+- [Picx](https://picx-docs.xpoet.cn/)
+- [Picgo](https://picgo.github.io/PicGo-Doc/)
+- [木及简历](https://www.mujicv.com/)
+- [explainshell](https://explainshell.com/)
+- [qdtool 前端工具包](https://www.qdtool.net/)
+- [quickref 代码速查](https://quickref.me/)
+
+### UML
+
+- [plantuml](https://plantuml.com/)
+
+### markdown
+
+- [markdown](https://www.markdownguide.org/)
+- [frontmatter](https://frontmatter.codes/docs/markdown)
+
+### 起始页
+
+- [青柠起始页](https://limestart.cn/)
+- [iTab](https://www.itab.link/)
+
+### 代码托管
+
+- [Github](https://github.com/)
+- [Gitee](https://gitee.com/)
+- [Gitlab](https://gitlab.com)
+- [bitbucket](https://bitbucket.org)
+
+### Git
+
+- [progit](https://git.oschina.net/progit/)
