@@ -33,7 +33,6 @@ comment: false
 - [西部世界](https://xbww9056.xyz/portal/order/node)
 - [v2raya](https://www.v2raya.eu.org/#/login)
 - [ClashNode 免费节点](https://clashnode.com/)
-- [冲浪猫](https://msclm.net/)
 - [白嫖机场](http://a100.sbs/#/dashboard)
 - [八方云](https://user.bafang.vip/#/register?code=SeBjD2rn)
 - [srayx](https://sub.srayx.com/#/register?code=Ly4kohLa)
