@@ -19,6 +19,7 @@ comment: false
 - [airportal](https://airportal.cn/)
 - [sourcegraph](https://sourcegraph.com/search)
 - [codesearch](https://codesearch.aixcoder.com/#/)
+- [searchcode](https://searchcode.com/)
 - [chrome 插件](https://chrome.zzzmh.cn/#/index)
 - [Steam++](https://steampp.net/)
 - [FastGithub](https://github.com/dotnetcore/FastGithub)
@@ -145,8 +146,17 @@ comment: false
 - [notion](https://www.notion.so/)
 - [drawio](https://www.draw.io/index.html)
 - [processon](https://www.processon.io/)
+- [stackedit + Github/Gitee 等](https://stackedit.cn/)
 
 ### 虚拟机
 
 - [vmware](https://www.vmware.com/cn.html)
 - [virtualBox](https://www.virtualbox.org/)
+
+### 书籍
+
+- [gutenberg](https://www.gutenberg.org/)
+
+### google
+
+- [google colab](https://colab.research.google.com/)

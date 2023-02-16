@@ -15,3 +15,4 @@ comment: false
 - [LLVM](https://llvm.org/)
 - [github 地址](https://github.com/llvm/llvm-project)
 - [docs](https://llvm.org/docs/)
+- [GettingStarted](https://llvm.org/docs/GettingStarted.html)

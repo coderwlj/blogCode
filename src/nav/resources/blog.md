@@ -50,6 +50,7 @@ comment: false
 - [hackernoon](https://hackernoon.com/)
 - [hackernews](https://news.ycombinator.com/)
 - [digitalocean](https://www.digitalocean.com/)
+- [quickref](https://quickref.me/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [丁辉博客(Vmware 系列)](https://www.dinghui.org/)
 - [左耳朵耗子](https://coolshell.cn/)
@@ -69,3 +70,12 @@ comment: false
 - [Linux 迷](https://www.linuxmi.com/)
 - [稀客大大](http://i.heyige.cn/)
 - [稀客大大 2](http://124.223.190.53:90/)
+- [redisdoc](http://redisdoc.com/)
+- [progit](https://git.oschina.net/progit/)
+
+### Github Ranking
+
+- [hellogithub](https://hellogithub.com/)
+- [githuber](https://githuber.cn/)
+- [gitstar-ranking](https://gitstar-ranking.com/)
+- [libhunt](https://www.libhunt.com/)

@@ -22,7 +22,6 @@ comment: false
 ### jetbrains
 
 [jetbra.in](https://3.jetbra.in/)
-<br/>
 
 ### 52pojie
 
@@ -45,5 +44,4 @@ comment: false
 ### JRebel
 
 [guidgen](https://www.guidgen.com/)
-<br/>
 [jrebel](https://jrebel.qekang.com/)
