@@ -67,3 +67,5 @@ comment: false
 - [bugstack](https://bugstack.cn/)
 - [java 知识图谱](https://www.altitude.xin/blog/home/#/)
 - [Linux 迷](https://www.linuxmi.com/)
+- [稀客大大](http://i.heyige.cn/)
+- [稀客大大 2](http://124.223.190.53:90/)
