@@ -16,83 +16,51 @@ comment: false
 
 ## 收费稳定
 
-[expressvpn](https://www.expressvpn.com/go/home-20)
-<br>
-[nordvpn](https://nordvpn.com/)
-<br>
-[cyberghostvpn](https://www.cyberghostvpn.com/)
-<br>
-[privateinternetaccess](https://www.privateinternetaccess.com/)
-<br>
-[surfshark](https://surfshark.com/)
+- [expressvpn](https://www.expressvpn.com/go/home-20)
+- [nordvpn](https://nordvpn.com/)
+- [cyberghostvpn](https://www.cyberghostvpn.com/)
+- [privateinternetaccess](https://www.privateinternetaccess.com/)
+- [surfshark](https://surfshark.com/)
 
 ## 机场
 
-[速蛙云](https://m.ok7.icu/m/shop)
-<br>
-[sockboom](https://sockboom.ac/)
-<br>
-[V2 云加速](https://v2board.cc/#/login)
-<br>
-[ssrsub](https://sub.ssrsub.com/#/login)
-<br>
-[自由之界](https://free.moorzon.com/home/index)
-<br>
-[西部世界](https://sjssr.fun/)
-[西部世界](https://xbww9056.xyz/portal/order/node)
-<br>
-[v2raya](https://www.v2raya.eu.org/#/login)
-<br>
-[加速猫](https://jsmvpn.com/)
-<br>
-[ClashNode 免费节点](https://clashnode.com/)
-<br>
-[冲浪猫](https://msclm.net/)
-<br>
-[白嫖机场](http://a100.sbs/#/dashboard)
-<br>
-[八方云](https://user.bafang.vip/#/register?code=SeBjD2rn)
-<br>
-[srayx](https://sub.srayx.com/#/register?code=Ly4kohLa)
-<br>
-[一元机场](https://xn--4gq62f52gdss.com/#/register?code=KvZOyfYQ)
+- [速蛙云](https://m.ok7.icu/m/shop)
+- [sockboom](https://sockboom.ac/)
+- [V2 云加速](https://v2board.cc/#/login)
+- [ssrsub](https://sub.ssrsub.com/#/login)
+- [自由之界](https://free.moorzon.com/home/index)
+- [西部世界](https://sjssr.fun/)
+- [西部世界](https://xbww9056.xyz/portal/order/node)
+- [v2raya](https://www.v2raya.eu.org/#/login)
+- [ClashNode 免费节点](https://clashnode.com/)
+- [冲浪猫](https://msclm.net/)
+- [白嫖机场](http://a100.sbs/#/dashboard)
+- [八方云](https://user.bafang.vip/#/register?code=SeBjD2rn)
+- [srayx](https://sub.srayx.com/#/register?code=Ly4kohLa)
+- [一元机场](https://xn--4gq62f52gdss.com/#/register?code=KvZOyfYQ)
 
 ## 博客 & 文章 & 项目
 
-[大专栏](https://www.dazhuanlan.com/)
-<br>
-[孤飞的博客](https://blog.onefly.top/)
-<br>
-[速蛙云博客](https://suwav2ray.com/super_tools/)
-<br>
-[性价比机场测评](https://duangks.com/archives/9/)
-<br>
-[主机格调](https://zhuji.gd/)
-<br>
-[柴郡猫](https://www.cheshirex.com/)
-<br>
-[new-pac](https://github.com/Alvin9999/new-pac)
-<br>
-[vpncn](https://github.com/vpncn/vpncn.github.io)
-<br>
-[v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)
-<br>
-[Shadowrocket](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
-<br>
-[美区 ID 注册](https://wwsj9688.xyz/pagesv2/blog/appleid.html)
-<br>
-[海外主机](https://www.veidc.com/hosting)
+- [大专栏](https://www.dazhuanlan.com/)
+- [孤飞的博客](https://blog.onefly.top/)
+- [速蛙云博客](https://suwav2ray.com/super_tools/)
+- [性价比机场测评](https://duangks.com/archives/9/)
+- [主机格调](https://zhuji.gd/)
+- [柴郡猫](https://www.cheshirex.com/)
+- [new-pac](https://github.com/Alvin9999/new-pac)
+- [vpncn](https://github.com/vpncn/vpncn.github.io)
+- [v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)
+- [Shadowrocket](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
+- [美区 ID 注册](https://wwsj9688.xyz/pagesv2/blog/appleid.html)
+- [海外主机](https://www.veidc.com/hosting)
 
 ## 在用
 
-[魔戒](https://mojie.buzz/#/dashboard)
-<br>
-[OVO-专业 Trojan](https://ovocloud.cc/)
+- [魔戒](https://mojie.buzz/#/dashboard)
+- [OVO-专业 Trojan](https://ovocloud.cc/)
 
 ## 软件
 
-[clashX](https://github.com/yichengchen/clashX)
-<br>
-[v2rayN](https://github.com/2dust/v2rayN)
-<br>
-[v2rayNG](https://github.com/2dust/v2rayNG)
+- [clashX](https://github.com/yichengchen/clashX)
+- [v2rayN](https://github.com/2dust/v2rayN)
+- [v2rayNG](https://github.com/2dust/v2rayNG)
