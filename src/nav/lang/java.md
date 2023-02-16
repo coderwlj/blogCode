@@ -14,6 +14,7 @@ comment: false
 - [guava](https://github.com/google/guava/wiki)
 - [JDK17](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 - [mvnrepository](https://mvnrepository.com/)
+- [maven central](https://central.sonatype.com/)
 - [hutool 文档](https://apidoc.gitee.com/dromara/hutool/)
 - [hutool 教程](https://www.hutool.cn/docs/#/)
 - [commons](https://commons.apache.org/)

@@ -228,4 +228,4 @@ star: 99
 
 1. 编的不是代码，是态度
 
-- [97-things-every-programmer-should-know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
+- [97-things-every-programmer-should-know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)

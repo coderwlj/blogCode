@@ -7,7 +7,7 @@ editLink: false
 comment: false
 ---
 
-## 开发
+## 开发者技术学习
 
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [丁辉博客(Vmware 系列)](https://www.dinghui.org/)
@@ -50,3 +50,5 @@ comment: false
 - [MDN](https://developer.mozilla.org/en-US/)
 - [scrimba(视频编程)](https://scrimba.com/dashboard#)
 - [progit](https://git.oschina.net/progit/)
+- [w3schools](https://www.w3schools.blog/)
+- [apache](https://www.apache.org/#)
