@@ -21,6 +21,7 @@ comment: false
 - [mkdocs](https://www.mkdocs.org/)
 - [jekyllrb](http://jekyllrb.com/)
 - [vitepress](https://vitepress.vuejs.org/)
+- [docusaurus](https://docusaurus.io/zh-CN/docs/)
 
 ## 部署平台
 
@@ -33,3 +34,10 @@ comment: false
 - [awardspace](https://www.awardspace.com)
 - [infinityfree](https://infinity.infinityfree.net/)
 - [netlify](https://www.netlify.com/)
+
+## 云
+
+- [name 域名](https://www.name.com/)
+- [aliyun cloud](https://cn.aliyun.com/)
+- [tencent cloud](https://cloud.tencent.com/)
+- [huaweicloud 云](https://www.huaweicloud.com/)

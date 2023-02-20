@@ -18,7 +18,6 @@ comment: false
 - [leetcode](https://leetcode.cn/)
 - [leetcode rating](https://zerotrac.github.io/leetcode_problem_rating/#/)
 - [评测鸭](https://duck.ac/)
-- [geeksforgeeks](https://practice.geeksforgeeks.org/explore?page=1&curated- []=1&sortBy=submissions&curated_names- []=SDE%20Sheet)
 - [redblobgames](https://www.redblobgames.com/)
 - [algorithmist](https://algorithmist.com/wiki/Main_Page)
 

@@ -51,6 +51,7 @@ comment: false
 - [hackernews](https://news.ycombinator.com/)
 - [digitalocean](https://www.digitalocean.com/)
 - [quickref](https://quickref.me/)
+- [运维 quickref](https://quickref.leops.cn/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [丁辉博客(Vmware 系列)](https://www.dinghui.org/)
 - [左耳朵耗子](https://coolshell.cn/)

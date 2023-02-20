@@ -160,3 +160,4 @@ comment: false
 ### google
 
 - [google colab](https://colab.research.google.com/)
+- [虚拟国外主机](https://neverinstall.com/)

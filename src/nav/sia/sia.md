@@ -63,3 +63,7 @@ comment: false
 - [clashX](https://github.com/yichengchen/clashX)
 - [v2rayN](https://github.com/2dust/v2rayN)
 - [v2rayNG](https://github.com/2dust/v2rayNG)
+
+## 直连
+
+- [freeku youtube](https://www.freeku.xyz/?kkl0IfBbZ=AHW2RhZCYW&GqhF=ZB&Q2R)
