@@ -1,5 +1,5 @@
 ---
-title: Java相关
+title: Java
 icon: Java
 author: coderwlj
 article: false

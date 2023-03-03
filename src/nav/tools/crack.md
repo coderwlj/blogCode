@@ -9,27 +9,16 @@ comment: false
 
 ## 软件资源
 
-[freecrackdownload](https://freecrackdownload.com/)
-<br>
-[softpedia](https://www.softpedia.com/)
-<br>
-[download](https://download.cnet.com/)
-<br>
-[freecommander](https://freecommander.com/en/summary/)
+- [freecrackdownload](https://freecrackdownload.com/)
+- [softpedia](https://www.softpedia.com/)
+- [download](https://download.cnet.com/)
+- [freecommander](https://freecommander.com/en/summary/)
 
 ## 软件激活
 
 ### jetbrains
 
 [jetbra.in](https://3.jetbra.in/)
-
-### 52pojie
-
-[52pojie](https://down.52pojie.cn/Tools/)
-
-### FinalShell
-
-[FinalShell](https://www.apibug.com/zxtools/finalshell)
 
 ### NoSQLBooster
 

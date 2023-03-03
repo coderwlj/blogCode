@@ -5,22 +5,16 @@ export const zhSidebar = sidebar({
   '/nav/': [
     '',
     {
-      text: '前端',
-      prefix: 'front/',
-      collapsible: true,
-      children: ['vue', 'react', 'node'],
-    },
-    {
       text: '编程语言',
       prefix: 'lang/',
       collapsible: true,
-      children: ['cpp', 'go', 'java', 'JavaScript', 'python'],
+      children: ['go', 'java'],
     },
     {
-      text: '资源 & 博客',
+      text: '博客',
       prefix: 'resources/',
       collapsible: true,
-      children: ['blog', 'algorithm', 'tech'],
+      children: ['blog'],
     },
     {
       text: '科学上网',
@@ -32,7 +26,7 @@ export const zhSidebar = sidebar({
       text: '网站开发部署',
       prefix: 'static/',
       collapsible: true,
-      children: ['static', 'website'],
+      children: ['static'],
     },
     {
       text: '工具',
@@ -44,22 +38,7 @@ export const zhSidebar = sidebar({
       text: '素材设计',
       prefix: 'ui/',
       collapsible: true,
-      children: ['style', 'design', 'pic'],
-    },
-  ],
-  '/read/': [
-    '',
-    {
-      text: '编码相关',
-      prefix: 'tech/',
-      collapsible: true,
-      children: [],
-    },
-    {
-      text: '不止编码',
-      prefix: 'mind/',
-      collapsible: true,
-      children: ['book01', 'book02'],
+      children: ['style'],
     },
   ],
 });

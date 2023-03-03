@@ -29,12 +29,7 @@ comment: false
 - [V2 云加速](https://v2board.cc/#/login)
 - [ssrsub](https://sub.ssrsub.com/#/login)
 - [自由之界](https://free.moorzon.com/home/index)
-- [西部世界](https://sjssr.fun/)
-- [西部世界](https://xbww9056.xyz/portal/order/node)
 - [v2raya](https://www.v2raya.eu.org/#/login)
-- [ClashNode 免费节点](https://clashnode.com/)
-- [白嫖机场](http://a100.sbs/#/dashboard)
-- [八方云](https://user.bafang.vip/#/register?code=SeBjD2rn)
 - [srayx](https://sub.srayx.com/#/register?code=Ly4kohLa)
 - [一元机场](https://xn--4gq62f52gdss.com/#/register?code=KvZOyfYQ)
 
@@ -63,7 +58,3 @@ comment: false
 - [clashX](https://github.com/yichengchen/clashX)
 - [v2rayN](https://github.com/2dust/v2rayN)
 - [v2rayNG](https://github.com/2dust/v2rayNG)
-
-## 直连
-
-- [freeku youtube](https://www.freeku.xyz/?kkl0IfBbZ=AHW2RhZCYW&GqhF=ZB&Q2R)
