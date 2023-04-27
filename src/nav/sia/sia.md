@@ -32,6 +32,7 @@ comment: false
 - [v2raya](https://www.v2raya.eu.org/#/login)
 - [srayx](https://sub.srayx.com/#/register?code=Ly4kohLa)
 - [一元机场](https://xn--4gq62f52gdss.com/#/register?code=KvZOyfYQ)
+- [shadowsocks](https://portal.shadowsocks.nz/store/cloud)
 
 ## 博客 & 文章 & 项目
 

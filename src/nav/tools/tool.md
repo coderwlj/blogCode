@@ -37,6 +37,7 @@ comment: false
 - [qdtool 前端工具包](https://www.qdtool.net/)
 - [quickref 代码速查](https://quickref.me/)
 - [similarweb](https://www.similarweb.com/)
+- [printfreegraphpaper](https://www.printfreegraphpaper.com/)
 
 ### UML
 

@@ -34,3 +34,7 @@ comment: false
 ## 静态网站构建框架
 
 - [静态网站](./static/static.md)
+
+## 外贸相关
+
+- [外贸](./foreign/site.md)
