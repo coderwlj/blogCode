@@ -11,7 +11,7 @@ cd src/.vuepress/dist
 
 git init
 git add -A
-git commit -m '完善了导航栏以及信息'
+git commit -m '添加外贸相关网站'
 
 # 如果发布到 https://<USERNAME>.github.io  填写你刚刚创建的仓库地址
 git push -f https://github.com/coderwlj/notes.git master

@@ -48,6 +48,7 @@ comment: false
 - [Shadowrocket](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 - [美区 ID 注册](https://wwsj9688.xyz/pagesv2/blog/appleid.html)
 - [海外主机](https://www.veidc.com/hosting)
+- [clashx](https://clashx.pro/)
 
 ## 在用
 
