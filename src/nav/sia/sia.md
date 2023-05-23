@@ -31,32 +31,40 @@ comment: false
 - [自由之界](https://free.moorzon.com/home/index)
 - [v2raya](https://www.v2raya.eu.org/#/login)
 - [srayx](https://sub.srayx.com/#/register?code=Ly4kohLa)
-- [一元机场](https://xn--4gq62f52gdss.com/#/register?code=KvZOyfYQ)
-- [shadowsocks](https://portal.shadowsocks.nz/store/cloud)
+- [chainuk(支持 GPT)](https://www.chainuk.top/)
 
 ## 博客 & 文章 & 项目
 
 - [大专栏](https://www.dazhuanlan.com/)
-- [孤飞的博客](https://blog.onefly.top/)
 - [速蛙云博客](https://suwav2ray.com/super_tools/)
 - [性价比机场测评](https://duangks.com/archives/9/)
 - [主机格调](https://zhuji.gd/)
-- [柴郡猫](https://www.cheshirex.com/)
-- [new-pac](https://github.com/Alvin9999/new-pac)
+- [柴郡猫(VPS)](https://www.cheshirex.com/)
 - [vpncn](https://github.com/vpncn/vpncn.github.io)
-- [v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)
-- [Shadowrocket](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 - [美区 ID 注册](https://wwsj9688.xyz/pagesv2/blog/appleid.html)
 - [海外主机](https://www.veidc.com/hosting)
-- [clashx](https://clashx.pro/)
 
 ## 在用
 
-- [魔戒](https://mojie.buzz/#/dashboard)
-- [OVO-专业 Trojan](https://ovocloud.cc/)
+- [Ovo Trojan(推荐)](https://ovocloud.cc/)
+- [稳连云](http://xn--9kqq77hqun.com/#/login)
+- [1 元机场(便宜,有可能会跑路,11 元一年)](https://xn--4gq62f52gdss.com/#/register?code=qg9nD6To)
 
 ## 软件
 
-- [clashX](https://github.com/yichengchen/clashX)
+- [clashX(推荐)](https://github.com/yichengchen/clashX)
 - [v2rayN](https://github.com/2dust/v2rayN)
 - [v2rayNG](https://github.com/2dust/v2rayNG)
+- [v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)
+- [Shadowrocket](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
+- [clashx Pro](https://clashx.pro/)
+
+## IOS(Apple Store)
+
+**Apple ID 美区**
+
+- Potatso Lite(推荐,免费)
+- Kitsunebi(免费)
+- Shadowrocket(收费)
+- Surge
+- ClashX
