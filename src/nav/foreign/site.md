@@ -13,6 +13,7 @@ comment: false
 
 - [ASI](https://promomart.espwebsite.com/)
 - [Sage](https://www.sagewebsitestandard.com/)
+- [GLI](https://greatlakeimages.com/)
 - [usapromoitems](https://www.usapromoitems.com/)
 - [Amazon](https://www.amazon.com/)
 - [ebay](https://www.ebay.com/)
@@ -106,6 +107,16 @@ comment: false
 - [toppromotions](https://www.toppromotions.com/)
 - [promotional-items-inc](https://www.promotional-items-inc.com/)
 
+## Creative
+
+- [thisiswhyimbroke](https://www.thisiswhyimbroke.com/gifts/)
+- [odditymall](https://odditymall.com/)
+- [dudeiwantthat](https://www.dudeiwantthat.com/)
+- [awesomestufftobuy](https://awesomestufftobuy.com/)
+- [ecomhunt](https://ecomhunt.com/)
+- [indiegogo](https://www.indiegogo.com/)
+- [wayfair](https://www.wayfair.com/)
+
 ## 工具网站
 
 - [tradeb2b](https://www.tradeb2b.net/)
@@ -137,6 +148,8 @@ comment: false
 - [24timezones](https://ww2.24timezones.com/#/map)
 - [amz123 导航](https://www.amz123.com/)
 - [buyerzone](https://www.buyerzone.com/)
+- [acronymfinder(简写)](https://www.acronymfinder.com/)
+- [印刷用语](https://www.ddc.co.jp/)
 
 ## 邮箱工具网站
 
@@ -151,14 +164,23 @@ comment: false
 - [来发信(邮件追踪等)](http://www.laifaxinvip.com/)
 - [mailtrack for gmail](https://mailtrack.io/en/)
 - [snovio(CRM)](https://snov.io/)
+- [letterspro](https://www.letterspro.com/)
+- [template](https://www.template.net/)
+- [sampletemplates](https://www.sampletemplates.com/)
+- [promomarketing](https://www.promomarketing.com/)
+- [americanenglish](https://americanenglish.state.gov/)
+- [englishpage](https://www.englishpage.com/index.html)
+- [awesomeamerica](https://awesomeamerica.com/)
 
 ## 图片处理和无版权图下载工具
 
 - [稿定设计(图片排版用)](https://www.gaoding.com/)
 - [onlineimagetools](https://onlineimagetools.com/)
 - [tinypng](https://tinypng.com/)
+- [bigjpg(图片像素提高)](https://bigjpg.com/)
 - [photopea](https://www.photopea.com/)
 - [uupoop(PS)](https://www.uupoop.com/#/)
+- [photopea](https://www.photopea.com/)
 - [矢量图工具](https://svg-editor.yunser.com/)
 - [unsplash](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
@@ -168,17 +190,22 @@ comment: false
 - [pngimg](https://pngimg.com/)
 - [贝塞尔曲线](https://bezier.method.ac/)
 - [psdrepo](https://psdrepo.com/)
+- [pixlr](https://pixlr.com/x/)
+- [ps2ai](https://convertio.co/ps-ai/)
 
 ## AI 抠图工具
 
 - [pixian](https://pixian.ai/)
-- [removebg](www.remove.bg)
+- [removebg](http://www.remove.bg)
 - [photokit](https://photokit.com/)
 - [创客贴](https://www.chuangkit.com/koutu?utm_source=ktzc&utm_campaign=klfz)
 - [佐糖](https://picwish.cn/?chn-piccpa)
 - [Canva 可画](https://www.canva.cn/features/remove-background/)
 - [图怪兽](https://818ps.com/koutu/?user_source=r1512391)
 - [fotor](https://www.fotor.com.cn/)
+- [水印](https://quququ.cn/)
+- [magicstudio](https://magicstudio.com/magiceraser)
+- [watermarkremover(科学)](https://www.watermarkremover.io/)
 
 ## 关键词选品相关工具
 
@@ -186,6 +213,14 @@ comment: false
 - [soovle](https://www.soovle.com/)
 - [keywordtool](https://keywordtool.io/cn)
 - [卖家精灵](https://cn.sellersprite.com/v3/keyword-miner)
+- [西柚](https://www.xiyouzhaoci.com/)
+
+## 文件格式转换
+
+- [smallpdf](https://smallpdf.com/)
+- [aspose](https://products.aspose.app/)
+- ABBYY FineReader
+- Adobe Acrobat DC
 
 ## AI
 
