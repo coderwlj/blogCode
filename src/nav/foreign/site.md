@@ -106,6 +106,10 @@ comment: false
 - [promoplace](https://www.promoplace.com/)
 - [toppromotions](https://www.toppromotions.com/)
 - [promotional-items-inc](https://www.promotional-items-inc.com/)
+- [christmas](https://christmas.com/)
+- [christmastreeshops](https://www.christmastreeshops.com/)
+- [bronners](https://www.bronners.com/)
+- [christmascentral](https://www.christmascentral.com/)
 
 ## Creative
 
@@ -150,6 +154,12 @@ comment: false
 - [buyerzone](https://www.buyerzone.com/)
 - [acronymfinder(简写)](https://www.acronymfinder.com/)
 - [印刷用语](https://www.ddc.co.jp/)
+- [aioexpress](https://www.aioexpress.com/)
+
+## 翻译
+
+- [deepl](https://www.deepl.com/translator)
+- [nicetranslator](https://nicetranslator.com/)
 
 ## 邮箱工具网站
 
